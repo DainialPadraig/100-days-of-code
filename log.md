@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
+
+### R1D2: June 18, 2018 - Monday
+
+**Today's Progress**: I added geoJSON coded location markers for flow stations along Tanque Verde and Rillito River to the OSM map I started at Open Data Day 2018.
+
+**Thoughts** This is the day I gave my notice at WMG to accept a position as a contractor for the Microsoft Foundation. So, a bit of a momentous day. As far as my coding for today went, I am getting concerned that the Google Map (where the lat/lon for the markers was originally determined) is using a different reference system than OSM. The markers seem to be off a bit (sometimes quite a bit).
+
+**Link(s) to work**
+1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
