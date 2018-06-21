@@ -26,3 +26,13 @@
 
 **Link(s) to work**
 1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
+
+### R1D4: June 20, 2018 - Wednesday
+
+**Today's Progress**: Finished adding markers to the map.
+
+**Thoughts** I have been coding the map using c9.io and had a problem today where the pins I added weren't being displayed. I tried restarting the server (multiple times), reloading the workspace, and checked for syntax errors more times than I like to admit. I even checked the Leaflet documentation to see if there was a limit to the number of pins that could be displayed. Turns out it was a c9 issue, because it worked when I loaded the code on my ubuntu machine and viewed the map. I guess I need to think about transitioning to AWS Cloud9, if I want to keep using c9. It seems pretty obvious they've stopped maintaining the legacy system.
+
+**Link(s) to work**
+1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
+
