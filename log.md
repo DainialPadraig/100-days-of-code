@@ -44,3 +44,13 @@
 
 **Link(s) to work**
 1. [Tucson Watershed Visualizer](https://github.com/DainialPadraig/tucson-watershed-visualizer)
+
+### R1D6: June 22, 2018 - Friday
+
+**Today's Progress**: Moved the GeoJSON code into a separate file.
+
+**Thoughts** This was not an especially satisfying change since now I've established an implicit dependency between the definition of the JavaScript variable monitorStations with its associated GeoJSON code and the stationmap.js file that uses the monitorStations variable located in the monitorstations.js file to display the markers on the map. Unfortunately, I haven't found a way to import a geoJSON file and assign it to a variable in stationmap.js without relying on a library like jQuery. I really don't want that additional overhead for such a simple app, but the alternative is embedding the GeoJSON in stationmap or having the implicit dependency - which is really bad software engineering. I'll need to think about this some more.
+
+**Link(s) to work**
+1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
+
