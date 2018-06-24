@@ -54,3 +54,11 @@
 **Link(s) to work**
 1. [Flow Monitor](https://github.com/CodeForTucson/flow-monitor)
 
+### R1D7: June 23, 2018 - Saturday
+
+**Today's Progress**: Started setting up a Raspberry Pi 3 official touchscreen for the Living Lab and Learning Center weather monitor project. Created a github library, installed and tested libraries on the Raspberry Pi, and started looking into the Kivy framework to decide if that's an approach I want to take for the weather displays on the touchscreen or not. Kivy does have 10 point touchscreen compatible graphics capabilities and is the framework used by the Raspberry Pi Foundation for the weather stations they distributed to schools. I just need to decide if learning a new framework and display language is really worth the time or if I can get the functionality I want out of the Mesonet API by itself. It will require more experimenting.
+
+**Thoughts** I'm at a temporary impasse on the *Flow Monitor* app right now. I'm trying to decide what I want to implement next on it, so I took some time to work on the weather data montior for the Living Lab. It's a project I have a soft deadline for, so I'd like to make some progress on it. Today was mostly research and setting up the development environment and a repo, but I think I can make some progress on it tomorrow after doing some comparative experiments with [Kivy](https://kivy.org/#home) and the [Mesonet API](https://synopticlabs.org/api/mesonet/).
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
