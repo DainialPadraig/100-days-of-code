@@ -62,3 +62,12 @@
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D8: June 24, 2018 - Sunday
+
+**Today's Progress**: Decided to give Kivy a try for the data visualization, so spent quite a bit of time installing it on the Raspberry Pi (pip is really slow, even on the Pi3). Also installed MesoPy to access the MesoWest weather data through Python and wrote a really short test script to download some precip data. Read through some documentation for both.
+
+**Thoughts** Really don't have anything working. Going to have to check the path for MesoPy because the Python script's not finding it. Haven't tried building a "hello world" for Kivy yet. That will be tomorrow.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
