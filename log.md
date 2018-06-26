@@ -71,3 +71,12 @@
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D9: June 25, 2018 - Monday
+
+**Today's Progress**: Experimented with data retrieval from MesoWest using MesoPy.
+
+**Thoughts** Got MesoPy working. Retrieved current weather station data and precip for the year data. Results looked good. My Python is rusty, thinking I might want to brush up on it. Might also make sense to evaluate some Python tutorials/books to see what would be good to recommend to some of the students and teachers I will be working with. There's certainly A LOT out of material out there.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
