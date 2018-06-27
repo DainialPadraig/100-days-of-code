@@ -80,3 +80,14 @@
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D10: June 26, 2018 - Tuesday
+
+**Today's Progress**: Continued experimenting with MesoWest data retrieval using MesoPy. Also tried to format my code to conform to the [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md#s3.17-main) and running Pylint on my code. Created separate functions for displaying different datasets.
+
+**Thoughts** My Python's sloppy, but I was happy that I got up to 4.21/10 on pylint. Got more work to do to write good Python code, to be sure. Also need to start parsing the data I really want to display. I'm just dumping dicts to the screen right now.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+
