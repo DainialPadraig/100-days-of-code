@@ -90,4 +90,11 @@
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
 
+### R1D11: June 27, 2018 - Wednesday
 
+**Today's Progress**: Continued experimenting with MesoWest data retrieval using MesoPy. Created separate functions for displaying all the expected displays.
+
+**Thoughts** Spent most of my time today researching Python and MesoWest libraries - not really doing much coding except in the Python shell to see if the libraries were working the way I expected them to work.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
