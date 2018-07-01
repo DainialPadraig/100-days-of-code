@@ -98,3 +98,12 @@
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D12: June 30, 2018 - Wednesday
+
+**Today's Progress**: Retrieved and displayed the current weather values I wanted from the API and the precip for this month and the previous year at the same time, as well as the precip for the year-to-date. This is the data portion of the visualization I want to do on the monitor.
+
+**Thoughts** Missed two days in the challenge due to leaving my old job (had a double shift trying to get everything cleaned up, documented, and handed over). Really not happy about that, but I think I made some good progress today extracting the variables I want to display from the dictionary of weather station data returned by the API.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
