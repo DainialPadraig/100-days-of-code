@@ -121,9 +121,18 @@
 
 **Today's Progress**: Added previous month's rainfall to the monthly rainfall data display and started investigating NOAA climate API access in Python.
 
-**Thoughts** I realized I still need to do so more backend data work before moving on to the graphical visualization. Getting data from previous years was pretty straight forward in MesoPy - except for one inconsistent behavior: when querying two station ids in the same request, the lists in the returned dictionary were not in a consistent order (the first id should be list 0 and the second should be list 1, but sometimes they are backwards). To make sure I knew what was going to be returned, I made separate calls for each station. 
+**Thoughts** I realized I still need to do some more backend data work before moving on to the graphical visualization. Getting data from previous years was pretty straight forward in MesoPy - except for one inconsistent behavior: when querying two station ids in the same request, the lists in the returned dictionary were not in a consistent order (the first id should be list 0 and the second should be list 1, but sometimes they are backwards). To make sure I knew what was going to be returned, I made separate calls for each station. 
 
 Next, I wanted to retrieve historical climate data (like average rainfall for a given month in Tucson). This turned out to be harder to find. NOAA is the keeper of US climatological data, but much of it is no longer being updated or made freely available. (Big surprise given the current administration's hostility toward climate data, right?) After searching through the site documentation, I think I finally found a PyPi library that will get the data I need. I'll have to experiment with that tomorrow.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D15: July 3, 2018 - Tuesday
+
+**Today's Progress**: Reading through documentation about NOAA Climate Data Online Web Access and experimenting with various Python packages to access the data. IOW, not much progress today.
+
+**Thoughts** Accessing the NOAA CDO web data is not as straight forward as I had hoped and the Python packages I had hoped might work from PyPi didn't work with Python 2.7 - even though they claimed they did. It's going to take a bit more tinkering to get the NOAA web portal to accept my access token and return some usable data.
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
