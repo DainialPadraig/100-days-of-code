@@ -136,3 +136,12 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D16: July 4, 2018 - Independence Day
+
+**Today's Progress**: Experimenting with curl calls to NOAA CDO. Getting inconsistent results, but did get some metadata back.
+
+**Thoughts** The NOAA CDO web access is not as well documented or intuitive as one would hope. I was able to make curl calls from the linux command line to retrieve metadata using the CDO token I was issued, but getting the desired data back is pretty hit or miss. I did get some real-time data back for precip, but can't seem to retrieve the climatic normals data I'm trying to get. Going to take a bit more experimenting and then I'll need to implement the curl request as a web query in Python. Most likely using urllib2.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
