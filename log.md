@@ -145,3 +145,12 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D17: July 5, 2018 - Thursday
+
+**Today's Progress**: Still playing with NOAA data without much success.
+
+**Thoughts** Couldn't seem to retrieve the desired normals data from CDO, so I looked at some other sources. There is are text files of [NOAA 1981-2010 Climate Normals](https://www1.ncdc.noaa.gov/pub/data/normals/1981-2010/readme.txt) that can be accessed via FTP or HTTP. Tried to get the precip file using urllib2 and parse it. I know the data is in the file, having viewed it, but getting 404 errors when accessing it through Python. Perhaps the smarter thing to do would just be to create some lists of the normal data, since it only changes once a decade!
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
