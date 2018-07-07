@@ -150,7 +150,16 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Today's Progress**: Still playing with NOAA data without much success.
 
-**Thoughts** Couldn't seem to retrieve the desired normals data from CDO, so I looked at some other sources. There is are text files of [NOAA 1981-2010 Climate Normals](https://www1.ncdc.noaa.gov/pub/data/normals/1981-2010/readme.txt) that can be accessed via FTP or HTTP. Tried to get the precip file using urllib2 and parse it. I know the data is in the file, having viewed it, but getting 404 errors when accessing it through Python. Perhaps the smarter thing to do would just be to create some lists of the normal data, since it only changes once a decade!
+**Thoughts** Couldn't seem to retrieve the desired normals data from CDO, so I looked at some other sources. There are text files of [NOAA 1981-2010 Climate Normals](https://www1.ncdc.noaa.gov/pub/data/normals/1981-2010/readme.txt) that can be accessed via FTP or HTTP. Tried to get the precip file using urllib2 and parse it. I know the data is in the file, having viewed it, but getting 404 errors when accessing it through Python. Perhaps the smarter thing to do would just be to create some lists of the normal data, since it only changes once a decade!
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D18: July 6, 2018 - Friday
+
+**Today's Progress**: Finally was able to get normal data from the NOAA climate normals website. Also restructured my repo to follow the suggestions in _The Hitchhiker's Guide to Python_.
+
+**Thoughts** Making some progress on getting data from NOAA. It's still a pain, since it's text, but I can parse that and build the lists that I want for displaying monthly normals. Also really enjoying reading _The Hitchhiker's Guide to Python_, there are some great tips about style and usage for Python in there.
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
