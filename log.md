@@ -163,3 +163,12 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D19: July 9, 2018 - Monday
+
+**Today's Progress**: Worked some unit test examples from _The Hitchhiker's Guide to Python_.
+
+**Thoughts** Missed two days of coding due to preparing for a meeting and starting my new job. Disappointing, but getting back in the saddle!
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
