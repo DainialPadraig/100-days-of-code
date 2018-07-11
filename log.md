@@ -172,3 +172,12 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D20: July 10, 2018 - Tuesday
+
+**Today's Progress**: Got my getnorms module to return a list of precipitation normal values from NOAA for the selected weather station.
+
+**Thoughts** Had to do a lot of parsing of text strings and I'm sure my code could be more efficient and more Python-y, but it is working. I'm pretty happy with that. I'll look into possible ways to clean it up tomorrow.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
