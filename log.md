@@ -181,3 +181,12 @@ Next, I wanted to retrieve historical climate data (like average rainfall for a 
 
 **Link(s) to work**
 1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
+
+### R1D21: July 11, 2018 - Wednesday
+
+**Today's Progress**: Ended up doing some research into sensors tonight.
+
+**Thoughts** Got side tracked going through some new sensor books I bought as a Humble Bundle. I want to tie some weather and atmospheric sensors into the monitor software eventually, so this wasn't a wasted excursion - but I do need to get back to cleaning up and finishing up the code for data retrieval from NOAA.
+
+**Link(s) to work**
+1. [LLLC Weather Monitor](https://github.com/DainialPadraig/lllc-weather)
